@@ -58,7 +58,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.13</version>
+			<version>8.0.16</version>
 		</dependency>
 		<!-- alibaba的druid数据库连接池 -->
 		<dependency>
